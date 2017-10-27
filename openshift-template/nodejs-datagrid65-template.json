@@ -380,7 +380,7 @@
     {
       "name": "SOURCE_REPOSITORY_URL",
       "description": "The URL of the repository with your application source code",
-      "value": "https://github.com/wohshon/nodejs-datagrid.git"
+      "value": "https://github.com/eformat/nodejs-datagrid.git"
     },
     {
       "name": "SOURCE_REPOSITORY_REF",
